@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+header{
+    background-color: green;
+    color: honeydew;
+    margin-top: 5px;
+
+}
+
+.nav{
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: green;
+    color: honeydew;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.redsoc{
+    color:honeydew ;
+    margin-top: 10px;
+
+}
+
